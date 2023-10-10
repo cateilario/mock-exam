@@ -1,3 +1,7 @@
+/**
+ * @author Caterina Ilario
+ * @GitHub https://github.com/cateilario/mock-exam.git
+ */
 document.addEventListener("DOMContentLoaded", () => {
 
 const calculateButton = document.getElementById("calculate");
